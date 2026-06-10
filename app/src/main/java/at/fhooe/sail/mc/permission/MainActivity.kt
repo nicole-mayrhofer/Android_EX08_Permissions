@@ -19,6 +19,7 @@ import at.fhooe.sail.mc.permission.databinding.ActivityMainBinding
 
 const val TAG: String = "Permission-Test"
 
+
 class MainActivity : AppCompatActivity() {
 
     lateinit var binding: ActivityMainBinding
